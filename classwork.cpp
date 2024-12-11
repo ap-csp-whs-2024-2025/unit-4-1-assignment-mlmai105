@@ -9,5 +9,8 @@ int main()
 
   std::cout << age << "\n" << price << std::endl << isRaining;
 
+  int grade_level = 12;
+  std::cout << "I am a " << grade_level << "th_grader." << std::endl; 
+
   return 0;
 }
